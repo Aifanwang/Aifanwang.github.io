@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
@@ -124,3 +125,6 @@ simple_jekyll_search:
 google:
     analytics_id: UA-80669434-1
 github: [metadata]
+=======
+theme: jekyll-theme-cayman
+>>>>>>> a83a1fc2e36ec1fa3302ad87d117d73a3f72acc0
